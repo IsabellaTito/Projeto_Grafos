@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#started">Introdução</a> • 
   <a href="#technologies">Tecnologias</a> • 
-  <a href="#colab">Contribuidores</a> •
+  <a href="#colab">Contribuidores</a>
 </p>
 
 <p align="center">
