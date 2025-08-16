@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#started">Introdução</a> • 
-  <a href="#tech">Tecnologias</a> • 
+  <a href="#technologies">Tecnologias</a> • 
   <a href="#colab">Contribuidores</a> •
 </p>
 
@@ -40,19 +40,25 @@ um dos grafos mais interessantes obtidos neste projetos foi a relação entre as
   <img width="700" height="450" alt="acidentes-brs-causas-pb" src="https://github.com/user-attachments/assets/f5ede511-d94d-424a-8e6e-dfc1d7468ea7" align="center"/>
 </p>
 
+Muitos outros exemplos interessantes podem ser vistos nos arquivos `Projeto_Grafos.ipynb` e `Projeto_Grafos-Matheus e Isabella.pdf` deste repositório.
+
 <h2 id="technologies">💻 Tecnologias</h2>
 
 O Google Colab, a linguagem de programação Python e a biblioteca Pandas
-foram as ferramentas báicas para o desenvolvimento deste trabalho. Por outro lado,
+foram as ferramentas básicas para o desenvolvimento deste trabalho. Por outro lado,
 as bibliotecas NetworkX e Matplotlib foram as bibliotecas específicas que os autores
 optaram para criação e plotagem dos grafos. Assim, temos a seguinte lista
 
-- Google Colab
 - Python
+- Jupyter Notebook
 - Pandas
 - Matplotlib
 - NetworkX
 
+Para rodar o projeto localmente também é possível instalar os requisitos usando o pip (ou outro instalador preterido), por exemplo   
+```bash
+pip install -r requirements.txt
+```
 
 <h2 id="colab">🤝 Contribuidores</h2>
 
