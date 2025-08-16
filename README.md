@@ -59,7 +59,7 @@ as bibliotecas NetworkX e Matplotlib foram as bibliotecas específicas para cria
 - **Matplotlib** para visualização gráfica.
 - **NetworkX** para criação e análise de grafos.
 
-Para rodar o projeto localmente é possível instalar os requisitos usando o pip (ou outro instalador preterido), por exemplo   
+Para rodar o projeto localmente é possível instalar os requisitos usando o pip (ou outro instalador preterido) 
 ```bash
 pip install -r requirements.txt
 ```
