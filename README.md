@@ -44,18 +44,22 @@ Muitos outros exemplos interessantes podem ser vistos nos arquivos `Projeto_Graf
 
 <h2 id="technologies">💻 Tecnologias</h2>
 
-O Google Colab, a linguagem de programação Python e a biblioteca Pandas
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-ff69b4?logo=matplotlib)](https://matplotlib.org/)
+[![NetworkX](https://img.shields.io/badge/NetworkX-Graph%20Analysis-00bfff)](https://networkx.org/)
+
+O Jupyter Notebook, a linguagem de programação Python e a biblioteca Pandas
 foram as ferramentas básicas para o desenvolvimento deste trabalho. Por outro lado,
-as bibliotecas NetworkX e Matplotlib foram as bibliotecas específicas que os autores
-optaram para criação e plotagem dos grafos. Assim, temos a seguinte lista
+as bibliotecas NetworkX e Matplotlib foram as bibliotecas específicas para criação e plotagem dos grafos.
 
-- Python
-- Jupyter Notebook
-- Pandas
-- Matplotlib
-- NetworkX
+- **Jupyter Notebook** para organização e execução de código interativo.
+- **Pandas** para análise e transformação de dados.
+- **Matplotlib** para visualização gráfica.
+- **NetworkX** para criação e análise de grafos.
 
-Para rodar o projeto localmente também é possível instalar os requisitos usando o pip (ou outro instalador preterido), por exemplo   
+Para rodar o projeto localmente é possível instalar os requisitos usando o pip (ou outro instalador preterido), por exemplo   
 ```bash
 pip install -r requirements.txt
 ```
